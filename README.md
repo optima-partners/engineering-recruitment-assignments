@@ -25,6 +25,12 @@ git clone https://github.com/optima-partners/engineering-recruitment-assignments
 2. Create a repository in your personal VCS account. Copy the URL of the repo you just created.
 *Note*: This repo must be publicly accessible. 
 
+```bash
+git clone https://github.com/optima-partners/engineering-interview-assignments.git
+```
+
+2. Create a repository in your personal VCS account. Copy the URL of the repo you just created.
+
 3. Add the repo you just created to the cloned repository as a remote.
 
 ```bash
@@ -55,6 +61,7 @@ git push -u submission main
 ### Submitting the Assignment
 
 To submit your assignment you must push your source code into a repo in your personal VCS account. For your assignment to be considered as submitted, you must inform Optima Partners by emailing engineeringrecruitment@optimapartners.co.uk with a link to your repo.
+
 
 You should add the following information to the solution README.md file in the `solution` directory:
 
