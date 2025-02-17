@@ -44,7 +44,7 @@ There are two levels of requirements for each assignment:
 
 ### Pushing your code to the submission repo
 
-1. Commit and push your code to the submission repo. *Note*: You must push your code to the `main` branch.
+1. Commit and push your code to the submission repo. *Note*: You must push your code to the `main` branch as this is the branch we will look to for your solution.
 
 ```bash
 git push -u submission main
