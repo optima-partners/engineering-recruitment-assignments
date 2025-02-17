@@ -1,4 +1,6 @@
-# Data Pipeline Assignment
+CAN THIS CHANGE BE SEEN BY OTHER PEOPLE?
+
+#Data Pipeline Assignment
 
 ## Background
 Optima has been hired by a motorsport analytics Youtube channel who are looking to do rapid analysis of Formula 1 for their viewers. The company wants to have some automated data pipelines in place to perform automated transformation of incoming datasets immediately following races.
